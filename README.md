@@ -1,4 +1,4 @@
-# Unknconfigs
+# Propulsionconfigs
 
 A personal fork of [srconfigs](https://github.com/p2sr/srconfigs), a simple-to-use set of configuration files
 for speedrunning Portal 2 and its mods with SAR. Personal customizations live in `extra.cfg`
@@ -8,10 +8,10 @@ this fork can still pull in upstream fixes cleanly.
 ## Installation
 
 Place all these config files within the `Portal 2/portal2/cfg` directory, as is;
-they should automatically be run by the game as necessary. Ensure [UnknAutoRecord] (or upstream [SAR]) is
+they should automatically be run by the game as necessary. Ensure [PropulsionAutoRecord] (or upstream [SAR]) is
 installed. Refer to the [Speedrun Setup Guide] for a video tutorial.
 
-[UnknAutoRecord]: https://github.com/Unkn-0-wngb/UnknAutoRecord
+[PropulsionAutoRecord]: https://github.com/Unkn-0-wngb/PropulsionAutoRecord
 [SAR]: https://github.com/p2sr/SourceAutoRecord
 [Speedrun Setup Guide]: https://youtu.be/ykBHtRd8Oyg
 
